@@ -35,4 +35,3 @@ Si te interesa ver código, escribime y coordinamos una demo.
 ## Formación
 
 - **Tecnicatura Universitaria en Programación** — UTN Bahía Blanca, 2023–2025
-- Proyecto final: tienda online (React + Node/Express) → [`ProyectoFinal-frontend`](https://github.com/AgusAlvarez3/ProyectoFinal-frontend) · [`ProyectoFinal-backend`](https://github.com/AgusAlvarez3/ProyectoFinal-backend)
