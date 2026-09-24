@@ -1,3 +1,5 @@
+<!-- Idioma / Language --> **English** · [Español](README.es.md)
+
 # Hi, I'm Agustín 👋
 
 Programming Technician (UTN Bahía Blanca). I automate processes and build internal
