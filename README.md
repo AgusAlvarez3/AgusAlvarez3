@@ -1,4 +1,4 @@
-<!-- Idioma / Language --> **English** · [Español](README.es.md)
+**English** · [Español](README.es.md)
 
 # Hi, I'm Agustín 👋
 
