@@ -1,37 +1,37 @@
-# Hola, soy Agustín 👋
+# Hi, I'm Agustín 👋
 
-Técnico en Programación (UTN Bahía Blanca). Automatizo procesos y construyo sistemas
-internos con IA para empresas industriales. Lo que hago termina en producción y lo usa
-gente todos los días: administrativos, operarios y clientes.
+Programming Technician (UTN Bahía Blanca). I automate processes and build internal
+systems with AI for industrial companies. What I build ships to production and gets used
+every day by office staff, field workers and clients.
 
 📍 Bahía Blanca, Argentina · ✉️ agusalvarezm3@gmail.com
 
-## En qué trabajo
+## What I work on
 
-| Sistema | Qué resuelve | Stack |
+| System | What it solves | Stack |
 |---|---|---|
-| **Certificados de contenedores** (Tecnophos ↔ ARCOR) | Foto en WhatsApp → OCR en cascada (Groq → Claude) → validación ISO 6346 → portal del cliente → Google Sheets. Sin intervención humana en el caso normal. | Python, FastAPI, n8n, Evolution API, Docker, PostgreSQL |
-| **Gestión** (RRHH · Comercial · Observabilidad) | Legajos, vencimientos, documentación mensual, stock, CRM móvil y panel de observabilidad. ~110 empleados. | Next.js 16, React 19, Supabase (RLS), Cloudflare R2, Vercel |
-| **Operaciones ADC–UNIPAR** | Siete módulos auditables para un contrato de limpieza industrial, con acceso para el cliente. | Next.js, Supabase, pdf-lib |
-| **Turnero para consultorios** | Multi-tenant, identificación por token (sin DNI), cero datos clínicos, recordatorios por WhatsApp Cloud API, seña por Mercado Pago. | Next.js, Supabase, Vitest, n8n |
-| **Apps de campo sin conexión** | Control de plagas y órdenes de trabajo con firma en pantalla y PDF que replica el talonario oficial. | HTML, jsPDF, Google Apps Script |
-| **Receta agronómica (RPA)** | Carga mensual de recetas de ocho plantas en el sistema del Ministerio de Agroindustria (PBA). | Python, Playwright |
+| **Container certificates** (Tecnophos ↔ ARCOR) | Photo in WhatsApp → cascading OCR (Groq → Claude) → ISO 6346 validation → client portal → Google Sheets. No human in the loop for the normal case. | Python, FastAPI, n8n, Evolution API, Docker, PostgreSQL |
+| **Gestión** (HR · Sales · Observability) | Employee files, expiring certifications, monthly documentation, stock, mobile CRM and an observability panel. ~110 employees. | Next.js 16, React 19, Supabase (RLS), Cloudflare R2, Vercel |
+| **ADC–UNIPAR operations** | Seven auditable modules for an industrial cleaning contract, with client-facing access. | Next.js, Supabase, pdf-lib |
+| **Appointment system for clinics** | Multi-tenant, token-based patient identity (no national ID), zero clinical data, WhatsApp Cloud API reminders, deposit payments via Mercado Pago. | Next.js, Supabase, Vitest, n8n |
+| **Offline field apps** | Pest control and digital work orders with on-screen signatures and a PDF that replicates the official paper form. | HTML, jsPDF, Google Apps Script |
+| **Agronomic prescriptions (RPA)** | Monthly filing of prescriptions for eight plants in the Buenos Aires Province Ministry of Agriculture system. | Python, Playwright |
 
-La mayoría de estos repos son privados porque contienen datos de clientes y empleados.
-Si te interesa ver código, escribime y coordinamos una demo.
+Most of these repos are private because they hold client and employee data.
+If you'd like to see code, reach out and we can set up a demo.
 
-## Herramientas
+## Tools
 
 `TypeScript` `Next.js` `React` `Tailwind` `Supabase` `PostgreSQL` `Python` `FastAPI` `Playwright`
 `n8n` `Docker` `Caddy` `Vercel` `Cloudflare R2` `Claude API` `Groq` `WhatsApp Cloud API` `Claude Code`
 
-## Cómo trabajo
+## How I work
 
-- Ramas cortas, pull requests y revisión de código antes de que algo llegue a `main`.
-- Seguridad desde el modelo de datos: Row Level Security por permiso, validación de pertenencia, secretos fuera del repo.
-- Documentación para el que viene después: cada proyecto tiene su `README`, su contexto de negocio y su historial de decisiones.
-- Uso agentes de IA (Claude Code) como parte del flujo, con el mismo criterio de revisión que para cualquier cambio.
+- Short-lived branches, pull requests and code review before anything reaches `main`.
+- Security starts at the data model: permission-based Row Level Security, ownership checks, secrets kept out of the repo.
+- Documentation for whoever comes next: every project has its `README`, its business context and its decision log.
+- I use AI agents (Claude Code) as part of the workflow, with the same review bar as any other change.
 
-## Formación
+## Education
 
-- **Tecnicatura Universitaria en Programación** — UTN Bahía Blanca, 2023–2025
+- **Programming Technician degree (Tecnicatura Universitaria en Programación)** — UTN Bahía Blanca, 2023–2025
