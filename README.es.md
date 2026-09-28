@@ -6,7 +6,7 @@ Técnico en Programación (UTN Bahía Blanca). Automatizo procesos y construyo s
 internos con IA para empresas industriales. Lo que hago termina en producción y lo usa
 gente todos los días: administrativos, operarios y clientes.
 
-📍 Bahía Blanca, Argentina · ✉️ agusalvarezm3@gmail.com · [LinkedIn](https://www.linkedin.com/in/agustin-alvarez-76b6aa299)
+📍 Bahía Blanca, Argentina · ✉️ agusalvarezm3@gmail.com · [LinkedIn](https://www.linkedin.com/in/agustin-alvarez-moreno)
 
 ## En qué trabajo
 
