@@ -6,7 +6,7 @@ Programming Technician (UTN Bahía Blanca). I automate processes and build inter
 systems with AI for industrial companies. What I build ships to production and gets used
 every day by office staff, field workers and clients.
 
-📍 Bahía Blanca, Argentina · ✉️ agusalvarezm3@gmail.com
+📍 Bahía Blanca, Argentina · ✉️ agusalvarezm3@gmail.com · [LinkedIn](https://www.linkedin.com/in/agustin-alvarez-76b6aa299)
 
 ## What I work on
 
